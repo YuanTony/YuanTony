@@ -1,0 +1,14 @@
+- 👋 hi, i’m Tony Yuan
+- 👀 i’m interested in:
+  -  maps
+  -  history
+  -  geography
+  -  science
+  -  geopolitics
+  -  [current events](https://news.google.com)
+  -  the [civil war](https://en.wikipedia.org/wiki/Central_African_Republic_Civil_War)
+- 🌱 I’m currently learning about LLMs and finetuning
+- 📫 How to reach me:
+  - discord: tony_yuan
+  - email: tony.yuan314@gmail.com
+  - bluesky: @tonyyuan.bsky.social
