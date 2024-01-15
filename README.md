@@ -1,4 +1,4 @@
-- 👋 hi, i’m Tony Yuan
+- 👋 salutations, i’m Tony Yuan
 - 👀 i’m interested in:
   -  maps
   -  history
